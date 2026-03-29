@@ -7,4 +7,4 @@ This project helped me understand GUI fundamentals, event handling, and structur
 
 Further changes will be made, such as levels and better GUI.
 
-made with lots of love -AR <3
+made with lots of love -- AR☆
