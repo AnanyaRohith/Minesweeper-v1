@@ -1,5 +1,5 @@
 # Minesweeper-v1
-A Minesweeper game built using Python and Tkinter as a school final project.
+A Minesweeper game built using Python and Tkinter for my 11th grade computer final project.
 
 Developed under a tight timeline (~48 hours) while learning Tkinter from scratch.
 
